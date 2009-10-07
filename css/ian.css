@@ -1,0 +1,89 @@
+body {
+	font-family: "droid-sans-1","droid-sans-2","Helvetica Neue", Helvetica, Arial;
+	font-size: 12px;
+	line-height: 1.5em;
+	color: #333;
+	margin: auto 0;
+}
+
+a:link, a:active, a:visited {
+	color: #c00;
+	text-decoration: none;
+	border-bottom: 1px solid #e1e3e3;
+}
+
+a:hover {
+	border-bottom: 1px solid #d1d3d3;
+}
+
+/**********************/
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+#header {
+	width: 900px;
+	margin: 0 auto;
+	font-size: 32px;
+	line-height: 1.5em;
+}
+
+#header img {
+	float: left;
+	height: 130px;
+	-webkit-border-radius: 5px;
+	margin: 0 30px 0 0;
+}
+
+#header span.greeting {
+	font-weight: bold;
+}
+
+#header span.highlight {
+	font-weight: bold;
+	color: #08f;
+}
+
+#projects-wrap {
+	background: #f3f5f5;
+	border: 1px solid #e1e3e3;
+	border-width: 1px 0;
+	float: left;
+	width: 100%;
+	padding: 30px 0;
+}
+
+#projects {
+	width: 900px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#projects .column {
+	float:left;
+	width: 419px;
+	border-right: 1px solid #e9ebeb;
+	padding: 0 30px 0 0;
+}
+
+#projects div.last {
+	float:left;
+	border-right: none;
+	padding: 0 0 0 30px;
+}
+
+#projects h1 {
+	margin: 0;
+	font-size: 18px;
+}
+
+#projects p {
+	margin: 1em 0 2.25em 0;
+	line-height: 1.5em;
+}
+
+#projects p.last {
+	margin: 1em 0;
+}
