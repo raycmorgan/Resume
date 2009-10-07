@@ -77,13 +77,23 @@ a:hover {
 #projects h1 {
 	margin: 0;
 	font-size: 18px;
+	margin-left: 95px;
 }
 
 #projects p {
 	margin: 1em 0 2.25em 0;
 	line-height: 1.5em;
+	margin-left: 95px;
 }
 
 #projects p.last {
 	margin: 1em 0;
+	margin-left: 95px;
+}
+
+#projects img {
+	float: left;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border: 2px solid #e1e3e3;
 }
