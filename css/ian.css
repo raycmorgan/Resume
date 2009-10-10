@@ -110,7 +110,7 @@ a:hover {
 #container h2 {
   font-size: 18px;
   margin: 15px 0 0 0;
-  padding: 0 0 5px 0;
+  padding: 0 0 10px 0;
   border-bottom: 1px solid #e1e3e3;
 }
 
@@ -136,7 +136,8 @@ a:hover {
 }
 
 #other-projects {
-  width: 360px;
+  width: 419px;
+  margin-right: 60px;
   float: left;
 }
 
