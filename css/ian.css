@@ -115,15 +115,14 @@ a:hover {
 }
 
 #skills {
-  width: 150px;
-  float: left;
-  margin-right: 30px;
+  width: 419px;
+  float: right;
 }
 
 #skills ul {
   margin: 10px 0 0 0;
   padding: 0;
-  width: 130px;
+  width: 399px;
   padding-left: 20px;
   list-style: circle;
 }
@@ -131,7 +130,7 @@ a:hover {
 #skills li {
   margin: 0;
   padding: 0;
-  width: 130px;
+  width: 199px;
   float: left;
 }
 
@@ -153,8 +152,8 @@ a:hover {
 
 #other-projects p {
   border-top: 1px solid #f3f5f5;
-  margin: 0;
   padding: 1em 0;
+  margin: 0 0 1em 0;
 }
 
 #other-projects ul {
